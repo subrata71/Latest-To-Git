@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "67d2b2fba2ba062224d12949_b2d56bfa-6f2c-455e-872d-24be02f10565",
+  "id": "JSModule1_GetUsersByLimit",
+  "moduleUUID": "c22adfab-23a0-44c9-becd-311a2f2fd3ba",
+  "packageUUID": "55a99eab-5bf5-49dd-838c-9e44b0745eab",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {},
+    "moduleId": "JSModule1",
+    "moduleInputs": {},
+    "name": "GetUsersByLimit"
+  }
+}

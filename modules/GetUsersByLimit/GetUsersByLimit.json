@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67d2b2fba2ba062224d12949_cf6447b1-6937-4e3b-b7ed-d19c554b1337",
+  "moduleUUID": "c22adfab-23a0-44c9-becd-311a2f2fd3ba",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "hcpsqkltfv",
+        "sectionName": ""
+      }
+    ],
+    "name": "GetUsersByLimit"
+  }
+}

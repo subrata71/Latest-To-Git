@@ -8,7 +8,7 @@
         "children": [
           {
             "controlType": "INPUT_TEXT",
-            "defaultValue": "[]",
+            "defaultValue": "[\"{{7}}\"]",
             "id": "kdbhmpzzjn",
             "label": "myFun1",
             "propertyName": "inputs.myFun1"
